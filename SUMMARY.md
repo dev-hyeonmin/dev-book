@@ -9,4 +9,4 @@
 * [03. 데이터 타입](deep-dive/03..md)
 * [04. 객체](deep-dive/04..md)
 * [05. 스코프](deep-dive/05..md)
-* [Page 1](deep-dive/page-1.md)
+* [06. 객체](deep-dive/06..md)
